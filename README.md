@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 -->
 
 ![BlueskyClouds’s github stats](https://github-readme-stats.vercel.app/api?username=ojdev&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojdev&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
